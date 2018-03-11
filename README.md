@@ -1,4 +1,4 @@
-# shopping-cart
+# VUEX Shopping Cart
 
 > https://vueschool.io/courses/vuex-for-everyone
 
